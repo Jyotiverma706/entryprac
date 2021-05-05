@@ -1,0 +1,16 @@
+.one {
+  font-style: oblique;
+  font-size: xxx-large;
+  text-align: center;
+  display: revert;
+  background: aliceblue;
+}
+body {
+  background-color: khaki;
+}
+.div{
+  margin-left: 40px;
+}
+.input {
+  margin-bottom: 10px;
+}
